@@ -4,7 +4,7 @@ import React, { Component } from 'react'
     render() {
         return (
             <div>
-               <h1>This is git learning </h1> 
+               <h1>This is git learning for message</h1> 
             </div>
         )
     }
